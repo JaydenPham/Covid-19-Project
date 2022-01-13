@@ -1,4 +1,9 @@
 
+Exploring Covid-19 Data
+
+While exploring my data I used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
